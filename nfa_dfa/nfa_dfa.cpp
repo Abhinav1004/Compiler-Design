@@ -9,10 +9,10 @@ int main(void)
 {
 	int j,k,i1,st,in,p, i,len,flag, cs,m[10][10]={0}, link[10][10]={0},ln,cl[10]={0}, t,tmp[10]={0};
 
-	ifstream inp;                  //1
-	string inp_str;                //2
-	inp.open("input3.txt");        //3
-	getline(inp,inp_str);          //4
+	ifstream inp;                  
+	string inp_str;                
+	inp.open("input3.txt");        
+	getline(inp,inp_str);          
 
     getline(inp,inp_str);
     cs=0,ln=0;

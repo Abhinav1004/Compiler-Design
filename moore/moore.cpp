@@ -1,4 +1,4 @@
-//LAB-2 Moore Machine
+// Question 2 Moore Machine
 //cs-cur_state, i-input, ns[][]-next_state, op[]-output
 // machine: [cur_state][input]->[next_state][output]
 

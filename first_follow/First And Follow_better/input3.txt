@@ -1,0 +1,5 @@
+4
+S AaAb
+S BbBa
+A #
+B #

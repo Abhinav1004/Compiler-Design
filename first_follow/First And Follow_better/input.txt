@@ -1,0 +1,8 @@
+7
+S ASB
+S AB
+A aA
+A b
+A #
+B cB
+B d
