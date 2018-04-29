@@ -1,4 +1,0 @@
-S->ACaB
-Bc->acB
-CB->DB
-aD->Db
